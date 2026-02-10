@@ -6,8 +6,8 @@
 
 <video src="Demo.mp4" controls width="800"></video>
 
-Or download directly: [Download Demo](Demo.mp4)
-
+Or download directly:  
+[⬇ Download Demo](Demo.mp4)
 
 
 ---
