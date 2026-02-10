@@ -4,7 +4,10 @@
 
 ## 🎥 Live Demo
 
-👉 [Watch Demo Video](Demo.mp4)
+<video src="Demo.mp4" controls width="800"></video>
+
+Or download directly: [Download Demo](Demo.mp4)
+
 
 
 ---
@@ -48,6 +51,10 @@ The system includes:
 | Precision    | 0.98 |
 | Recall       | 0.98 |
 | F1-Score     | 0.98 |
+
+### Confusion Matrix
+
+![Confusion Matrix](Confusion Matrix.png)
 
 ---
 
